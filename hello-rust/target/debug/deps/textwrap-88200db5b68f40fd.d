@@ -1,0 +1,11 @@
+C:\Users\Harry\Dev\RustPlayground\starting\hello-rust\target\debug\deps\textwrap-88200db5b68f40fd.rmeta: C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\Harry\Dev\RustPlayground\starting\hello-rust\target\debug\deps\libtextwrap-88200db5b68f40fd.rlib: C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\Harry\Dev\RustPlayground\starting\hello-rust\target\debug\deps\textwrap-88200db5b68f40fd.d: C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs:
+C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs:
+C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs:
+C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs:
+C:\Users\Harry\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs:
